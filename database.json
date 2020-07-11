@@ -1,0 +1,88 @@
+{
+  "events": [
+    {
+      "id": "9bb08e42-ac61-49a9-995f-d00593d9e3e9",
+      "namn": "Lasse-Stefanz",
+      "var": "Kjell Härnqvistsalen",
+      "datum": "21 Mar",
+      "from": "19.00",
+      "till": "21.00",
+      "platser": 300,
+      "biljetter": 125,
+      "pris": 350
+    },
+    {
+      "id": "0870985f-d8ec-4a47-a082-3087276a7364",
+      "namn": "Pelle Trubadur",
+      "var": "Pubelipubben",
+      "datum": "29 Mar",
+      "from": "22.00",
+      "till": "00.00",
+      "platser": 100,
+      "biljetter": 19,
+      "pris": 110
+    },
+    {
+      "id": "092fcf7f-f988-4e20-a98b-bd91402ae0f1",
+      "namn": "Kajsas kör",
+      "var": "Götaplatsen",
+      "datum": "10 Apr",
+      "from": "15.00",
+      "till": "16.00",
+      "platser": 1000,
+      "biljetter": 3454,
+      "pris": 99
+    },
+    {
+      "id": "456b6fbd-1e56-4959-a928-1be5adcf87e9",
+      "namn": "Klubb Untz",
+      "var": "Din favoritkällare",
+      "datum": "17 Apr",
+      "from": "22.00",
+      "till": "du tröttnar",
+      "platser": 120,
+      "biljetter": 77,
+      "pris": 150
+    }
+  ],
+  "orders": [
+    {
+      "id": "0870985f-d8ec-4a47-a082-3087276a7364",
+      "namn": "Pelle Trubadur",
+      "var": "Pubelipubben",
+      "datum": "29 Mar",
+      "from": "22.00",
+      "till": "00.00",
+      "platser": 0,
+      "biljetter": 0,
+      "pris": 0,
+      "verified": true,
+      "biljettnummer": "A32B1A"
+    },
+    {
+      "id": "9bb08e42-ac61-49a9-995f-d00593d9e3e9",
+      "namn": "Lasse-Stefanz",
+      "var": "Kjell Härnqvistsalen",
+      "datum": "21 Mar",
+      "from": "19.00",
+      "till": "21.00",
+      "platser": 0,
+      "biljetter": 0,
+      "pris": 0,
+      "verified": false,
+      "biljettnummer": "B1CC22"
+    }
+  ],
+  "users": [
+    {
+      "username": "admin-user",
+      "password": "$2b$10$GQxQ8.5T98O0n8enaesNoO2CvR.513lKVAjPtHwBtchjQO5J5aEFC",
+      "role": "admin"
+    },
+    {
+      "username": "staff-user",
+      "password": "$2b$10$eSo5tvGgVRlpE45/Wb.VX.P7PTneZKzyPvwLlR0soY4nq6Axv0k8C",
+      "role": "staff"
+    }
+  ]
+}
